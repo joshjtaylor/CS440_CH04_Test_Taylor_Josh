@@ -1,1 +1,3 @@
 # CS440_CH04_Test_Taylor_Josh
+
+I chose the GNU General Public License because I want the algorithms written in this repository to be accessible, modified, and used by everyone as long as they give me the credit for orignially developing them. My choice was fueled by the idea that my hard work can be used by others to make a difference. As an individual who has used GIMP and other open-source programs, I would love to contribute to the open-source community and bring powerful software to the hands of people who are not willing to pay for proprietary software. In turn by using my copyleft software, others who use it or modify it will be required to continue to contribute to the growing open-source community and bring free software to everyone.
